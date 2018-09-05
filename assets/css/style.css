@@ -1,8 +1,8 @@
 #bigPic{
     background-image: url("../images/downtown+los+angeles+skyline+night+freeway+car+traffic+building+timelapse.jpg");
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
+    background-position: center center;
+    background-size: cover;
     color: white;
     padding-left: 0;
     padding-right: 0;
@@ -12,26 +12,54 @@
     background-image: url("../images/funky-lines.png");
 }*/
 
-.navfloat{
+.navfloat1{
     background-color: #022883;
-    opacity: 0.7;
+    opacity: 0.9;
+    color: white;
 }
+
+.navfloat2{
+    background-color: #022883;
+    opacity: 0.9;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+
+a{
+    font-family: 'Hind', sans-serif; 
+    color: white;
+}
+
 
 #myPic{
     max-width: 100%;
     height: auto;
 }
 
-h2{
-    color: #022883
-}
-
 .subheader{
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size: 28px";
+    font-family: 'Hind', sans-serif;
+    font-size: 28px;
+    color:#022883;
 }
 
 .portfolio{
-font-family: 'Georgia', Times, Times New Roman, serif; 
-font-size: 18px
+    font-family: 'Hind', sans-serif; 
+    font-size: 18px
+}
+
+.portCover{
+    position: absolute; 
+    width: 320px ; 
+    background-color: #022883;
+    bottom: 2rem
+}
+
+button{
+    background-color: #022883;
+    color: #ffffff;
+    border: #022883; 
+    padding: 15px 25px;
+    font-family: 'Hind', sans-serif;
+    font-size: 20px;
 }
