@@ -8,8 +8,13 @@
     padding-right: 0;
 }
 
+/*body{
+    background-image: url("../images/funky-lines.png");
+}*/
+
 .navfloat{
-    color: white;
+    background-color: #022883;
+    opacity: 0.7;
 }
 
 #myPic{
@@ -18,7 +23,7 @@
 }
 
 h2{
-    color: #4aaaa5
+    color: #022883
 }
 
 .subheader{
