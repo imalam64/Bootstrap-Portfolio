@@ -8,7 +8,25 @@
     padding-right: 0;
 }
 
+.navfloat{
+    color: white;
+}
+
 #myPic{
     max-width: 100%;
     height: auto;
+}
+
+h2{
+    color: #4aaaa5
+}
+
+.subheader{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 28px";
+}
+
+.portfolio{
+font-family: 'Georgia', Times, Times New Roman, serif; 
+font-size: 18px
 }
