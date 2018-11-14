@@ -1,14 +1,13 @@
 #bigPic{
     background-image: url("../images/downtown+los+angeles+skyline+night+freeway+car+traffic+building+timelapse.jpg");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
     background-repeat: no-repeat;
-    background-position: center center;
     background-size: cover;
-    color: white;
-    padding-left: 0;
-    padding-right: 0;
 }
 
-.navfloat1{
+.intro{
     background-color: #022883;
     opacity: 0.9;
     color: white;
